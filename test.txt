@@ -4,3 +4,4 @@ gtf
 手动添加
 conflict
 test
+vi modify text
